@@ -1,5 +1,5 @@
-# Product Name
-> It apply PBKDF2WithHmacSHA512 algorithms and shows how can secure user's data by applying it.
+# Usage
+> It apply PBKDF2WithHmacSHA512 algorithms and shows how we can secure user's data by applying it.
 
 
 
