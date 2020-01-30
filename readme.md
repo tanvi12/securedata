@@ -1,5 +1,5 @@
 # Usage
-> It apply PBKDF2WithHmacSHA512 algorithms and shows how we can secure user's data by applying it.
+> This code shows how to secure user's data by applying PBKDF2WithHmacSHA512 algorithm.
 
 
 
